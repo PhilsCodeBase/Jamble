@@ -1,0 +1,4 @@
+Poppins
+Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+Lizenz: SIL Open Font License, Version 1.1 (https://openfontlicense.org)
+Der vollständige Lizenztext liegt in OFL.txt.
